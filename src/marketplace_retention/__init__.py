@@ -1,0 +1,2 @@
+"""Marketplace object retention service."""
+
